@@ -1,4 +1,4 @@
-# Buyit-Manager
+# Buyit Manager App
 
 ### The Buyit project consists of three applications: 
 
